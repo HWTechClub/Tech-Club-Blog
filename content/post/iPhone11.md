@@ -13,9 +13,12 @@ The title is not entirely accurate, obviously because there is the iPhone 11 whi
 
 The major change made to this phone and it's predecessor is the new camera lens. Like many other competetors, Apple also designed their first 3-cam smartphone.
 
+The iPhone 11 has the wide and ultra wide angle cams and not the telephoto lens. It also comes with the iconic Night Mode which is automatically switched to when low light is detected.
+
+
 #Triple Cam 
 --
-These camera lenses are 
+The camera   
 
 {{< css.inline >}}
 <style>
