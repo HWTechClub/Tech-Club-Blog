@@ -9,9 +9,14 @@ authors:
  
 ---
 
-The title is not entirely accurate, obviously because there is the iPhone 11 which has only 2 cam's and missing the telephoto lens. Well, the cheaper variant is assumed to have limited features, but the American tech supergiant has not compromised on any major hardware or software aspect of this phone which is commendable.
+The title is not entirely accurate, obviously because there is the iPhone 11 which has only 2 cam's and missing the telephoto lens. Well, the cheaper variant is assumed to have limited features, but the American tech supergiant has not compromised on any major hardware or software aspect of this phone which is commendable.The iPhone 11 comes in 3 different variants, the iPhone 11,iPhone 11 Pro and the iPhone 11 Pro Max.
 
-Okay, let's now discuss the pros and cons of this spectacular smartphone
+The major change made to this phone and it's predecessor is the new camera lens. Like many other competetors, Apple also designed their first 3-cam smartphone.
+
+#Triple Cam 
+--
+These camera lenses are 
+
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto;}
