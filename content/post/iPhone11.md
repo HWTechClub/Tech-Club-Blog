@@ -11,7 +11,7 @@ authors:
 
 The title is not entirely accurate, obviously because there is the iPhone 11 which has only 2 cam's and missing the telephoto lens. Well, the cheaper variant is assumed to have limited features, but the American tech supergiant has not compromised on any major hardware or software aspect of this phone which is commendable.
 
-This phone has done a lot in it's life
+Okay, let's now discuss the pros and cons of this spectacular smartphone
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto;}
