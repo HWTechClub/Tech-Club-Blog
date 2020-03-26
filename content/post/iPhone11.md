@@ -3,7 +3,7 @@ title: The all new 3-cam iPhone
 date: 2020-03-24
 hero: /images/iPhone-11-post.jpg
 excerpt: All new updates on this magnanimous smartphone.
-timeToRead: 10
+timeToRead: 5
 authors:
   - Mohit Katta 
  
