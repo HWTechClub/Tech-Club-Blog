@@ -14,11 +14,21 @@ The title is not entirely accurate, obviously because there is the iPhone 11 whi
 The major change made to this phone and it's predecessor is the new camera lens. Like many other competetors, Apple also designed their first 3-cam smartphone.
 
 The iPhone 11 has the wide and ultra wide angle cams and not the telephoto lens. It also comes with the iconic Night Mode which is automatically switched to when low light is detected.
+The iPhones come in multiple color variants, there’s a new midnight green color, refreshed silver,refreshed space gray and a new gold finish.
 
 
 #Triple Cam 
 --
-The camera   
+Apple has added the Ultra ide angle cam lens instead of a new telephoto lens which many of us expected. The Ultra wide lens is @ 0.5X zoom and it can go upto 2X zoom. The ultra wide angle lens also has an f/2.4 aperture and a 120-degree field of view.
+Similar to the Google Pixel, Apple have also come up with a new night mode to take low-light mode shots.
+The teh giant stepped a bit further by creating the "Deep Fusion" tech. This is a technology combines photo data from the 3 lens and fuses it to get a Deep and clear picture of every shot which is said by Senior Vice President of Worldwide Marketing Phil Schiller, "computational photography mad science." 
+
+The Front camera has also gone through some upgrades, it has been upgraded to the 12-megapixel zoom sensor and can accomodate a lot more people with every front cam shot.
+
+#No Major Change
+--
+
+
 
 {{< css.inline >}}
 <style>
