@@ -25,9 +25,13 @@ The teh giant stepped a bit further by creating the "Deep Fusion" tech. This is 
 
 The Front camera has also gone through some upgrades, it has been upgraded to the 12-megapixel zoom sensor and can accomodate a lot more people with every front cam shot.
 
-#No Major Change
+#My Personal View
 --
+With all this being said, We'll get down to my say. Frankly, i did not see a major upgrade in most of the aspects except a few and I don't see as to why there is a new phone upcoming into the market with not a lot of upgrades.Apple phones have now reached the ultimatum in terms of the price and quality and perhaps innovation as well. Well, like i said , there has been some developments and from various sources, We can say that the photo department did a good job in generating absoulutely amazing shots from every click. 
 
+The last iPhone to have a fingerprint sensor was the iPhone 8 and after updating the design to an almost infinity display touch screen, Apple removed Touch iD . With the latest Optical Fingerprint tech, they can incorporate touch iD from under the screen. This is one of the many things Apple could really work on to get on the top of the arguably "Best Phone in the Market".
+
+-- By Mohit Katta
 
 
 {{< css.inline >}}
