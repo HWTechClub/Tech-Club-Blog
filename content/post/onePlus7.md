@@ -11,7 +11,15 @@ authors:
 <!-- TO insert images -> ![Example image](/static/image.png) -->
 
 ---
-This has been a great wave for the OnePlus corporation.
+#What is OnePlus?
+--
+We all have seen that in recent years, mobile tech has increasingly improved in many aspects.
+We have all witnessed the creativity to make technological wonders. Slowly and gradually, the inevitable has happenned, rise in technological competetion forcing the existing brands to improve their R&D to compete.
+
+Amongst all the brands, one well-renowned, Shanghai based company grew exponentionally, that is the OnePlus Corporation. This tech giant flew right in the hotspot tech companies competing Apple, Samsung, Huawei and other major companies in the league for the gold-winner in the arguable "Best Phone in the Market".
+
+#OxygenOS
+
 
 
 {{< css.inline >}}
