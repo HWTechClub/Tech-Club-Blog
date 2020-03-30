@@ -2,7 +2,7 @@
 title: Breathe free with OxygenOS
 date: 2020-03-29
 hero: /images/oneplus-7-pro-edited-final.jpg
-excerpt: All new updates on this magnanimous smartphone.
+excerpt: "The inevitable has hapenned..."
 timeToRead: 5
 authors:
   - Hugo Authors 
@@ -47,8 +47,14 @@ Comes packed with a Big 3800 mAh battery with 30W fast charging capabilities and
 
 #My Personal View
 --
-Well, This is 
-//Still under construction. :))
+Well, let's come down to my personal view at this Smartphone which bested at almost all the aspects of a smartphone.
+
+This phone has all the features that I would like to see in a smartphone for a long-run. But obviously, the removal of the classic 3.5 mm AUX port has had a lasting effect on my wired earphones😂. Oh yes, as well as the removal of the expandable storage facility is also not expected and I am sure they will find a new way to get more storage into piece of tech.
+
+The Shenzhen based firm did a pretty impressive job developing such an awe-inspiring piece of tech. I would like to give it a 9/10!!
+So, that's that for now, tune into my blog for more reviews to the latest and innovative Pieces of Tech.
+
+-- Mohit Katta
 
 {{< css.inline >}}
 <style>
