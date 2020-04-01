@@ -3,6 +3,7 @@ title: Mohit Katta
 bio: |
   Studying BSC Computer Science Student at the Heriot Watt University,Dubai
 avatar: /images/myphoto.jpeg
+date: 2001-05-29
 featured: true
 social:
   - title: github
