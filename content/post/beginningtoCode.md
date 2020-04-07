@@ -36,7 +36,7 @@ Every language has it's own syntax and it's own concept, but the basics remain t
 
 These concepts make the building blocks of [Object Oriented Programming](https://www.youtube.com/watch?v=xoL6WvCARJY).Only after you are thorough with these topics, you should have your *hands on coding!!*. 
 
-
+![4 Pillars of OOP](/images/coding-post-1.png)
 {{< css.inline >}}
 <style>
 .canon { background: white; width: 100%; height: auto;}
