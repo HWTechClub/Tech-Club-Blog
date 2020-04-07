@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: Welcome To The Heriot Watt Tech Club Official Blog..
+  heading: <The Heriot Watt Tech Club Blog/>
   maxWidthPX: 500px
 ---

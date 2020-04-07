@@ -2,7 +2,6 @@
 date="2020"
 title="Drop in your suggestions"
 +++
-
 <form method="post" name="Contact" netlify>
     <label>Name <input type="text" name="name"></label>
     <label>Email <input type="email" name="email"></label>
