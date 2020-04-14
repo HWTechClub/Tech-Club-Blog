@@ -1,6 +1,5 @@
-baseURL: "http://techclub.dxbssh.xyz"
+baseURL: "http://hwtech.club"
 languageCode: "en-us"
-title: "The HWU Tech Club"
+title: "HW Tech Club Blog"
 pygmentsstyle: 'monokai'
 # pygmentsstyle: 'solarized-light'
-
