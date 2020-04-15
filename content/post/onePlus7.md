@@ -5,7 +5,7 @@ hero: /images/oneplus-7-pro-edited-final.jpg
 excerpt: "The inevitable has hapenned..."
 timeToRead: 5
 authors:
-  - Hugo Authors 
+  - hugo-authors/MohitKatta
  
 ---
 <!-- TO insert images -> ![Example image](/static/image.png) -->

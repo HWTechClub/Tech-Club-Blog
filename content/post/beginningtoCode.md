@@ -5,7 +5,7 @@ hero: /images/hello-world.png
 excerpt: "Read more about coding here.."
 timeToRead: 10
 authors:
-  - Hugo Authors 
+  - hugo-authors/MohitKatta 
  
 ---
 <!-- TO insert images -> ![Example image](/static/image.png) -->

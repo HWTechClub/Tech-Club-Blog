@@ -5,7 +5,7 @@ hero: /images/iPhone-11-post.jpg
 excerpt: All new updates on this magnanimous smartphone.
 timeToRead: 5
 authors:
-  - Hugo Authors 
+  - hugo-authors/MohitKatta
  
 ---
 
