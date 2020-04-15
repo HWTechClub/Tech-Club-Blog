@@ -41,10 +41,10 @@ These concepts make the building blocks of [Object Oriented Programming](https:/
 Now, These pillars of OOP as some call it, are essential and build your foundation for coding any language,well,technically.
 
 ## Resources that will teach you the ABC in programing:
--- Google started it's own teaching platform called [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage) which enables anyone with a google account to sign up and learn programming and many more courses online.
--- [Coursera](https://www.coursera.org/) is another webiste which gives you detailed explanation and implementation from various top universities.
--- Another website like coursera is [eDx](https://www.edx.org/), which is packed with various new and innovatiove material and gives you the pleasure of learning at your own pace.
--- Saving the best for last,[OpenClassrooms]() is another website, which i personally love, gives detailed, step by step instructions and explanations with video reference to most of the languages out there and I personally prefer this website.
+- Google started it's own teaching platform called [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage) which enables anyone with a google account to sign up and learn programming and many more courses online.
+- [Coursera](https://www.coursera.org/) is another webiste which gives you detailed explanation and implementation from various top universities.
+- Another website like coursera is [eDx](https://www.edx.org/), which is packed with various new and innovatiove material and gives you the pleasure of learning at your own pace.
+- Saving the best for last,[OpenClassrooms]() is another website, which i personally love, gives detailed, step by step instructions and explanations with video reference to most of the languages out there and I personally prefer this website.
 
 All the learning materials and quizes are free and these websites give free (and sometimes paid) certifications as well. This will help you immensely while creating your profile and makes you stand-out in the eyes of the employers.
 
