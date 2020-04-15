@@ -11,3 +11,4 @@ authors:
 
 ---
 //post under Construction!//
+This is a technological marvel. A piece of tech ahead of it's time.
