@@ -11,9 +11,9 @@ https://gohugo.io/getting-started/installing/
 
 
 Run Hugo command to run the website locally on your computer
-"""
+```
 hugo serve
-"""
+```
 
 ## How to add a blog
 
@@ -33,7 +33,7 @@ hugo serve
 
 4. Add this template and modify
 
-"""
+```
 ---
 title: Akilan Selvacoumar
 bio: |
@@ -48,4 +48,4 @@ social:
     url: https://www.linkedin.com/in/akilan-selvacoumar
 ---
 
-"""
+```
