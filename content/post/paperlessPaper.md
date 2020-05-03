@@ -5,10 +5,10 @@ hero: /images/reMarkable-tab2-edit.jpg
 excerpt: The tablet that feels like paper...
 timeToRead: 5
 authors:
-  - hugo-authors/MohitKatta
- 
+  -  MohitKatta
+
 ---
 
 ---
 //post under Construction!//
-This is a technological marvel. A piece of tech ahead of it's time. 
+This is a technological marvel. A piece of tech ahead of it's time.

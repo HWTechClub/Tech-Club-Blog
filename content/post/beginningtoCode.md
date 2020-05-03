@@ -5,8 +5,8 @@ hero: /images/hello-world.png
 excerpt: "Read more about coding here.."
 timeToRead: 10
 authors:
-  - hugo-authors/MohitKatta 
- 
+  - MohitKatta
+
 ---
 <!-- TO insert images -> ![Example image](/static/image.png) -->
 
@@ -21,7 +21,7 @@ Pre-Basics of coding
 Well, before learning the basics of coding, we all need to understand in what to code and why with emphasis on the latter. There are thousands of programming languages out there and choosing to learn one language to begin with is a hard task. That comes to the second question of why.
 Well,I believe that if you start learning a more Non-Abstracted code language like C and Java, it'll help you understand how recent and more professional code languages like Python work behind the scenes.
 
-Keeping that in mind, i would like to give you some languages to start working on and learning the basics of the language.Remember, Learning WHY is more important than WHAT the code does. 
+Keeping that in mind, i would like to give you some languages to start working on and learning the basics of the language.Remember, Learning WHY is more important than WHAT the code does.
 
 - C      (Best to start with)
 - Java   (Good option as well)
@@ -34,7 +34,7 @@ Every language has it's own syntax and it's own concept, but the basics remain t
 2. [Encapsulation and Inheritance](https://www.youtube.com/watch?v=QXHOrKEjHo0)
 3. [Polymorphism](https://www.youtube.com/watch?v=AmdgVatPL9k)
 
-These concepts make the building blocks of [Object Oriented Programming](https://www.youtube.com/watch?v=xoL6WvCARJY).Only after you are thorough with these topics, you should have your *hands on coding!!*. 
+These concepts make the building blocks of [Object Oriented Programming](https://www.youtube.com/watch?v=xoL6WvCARJY).Only after you are thorough with these topics, you should have your *hands on coding!!*.
 
 ![4 Pillars of OOP](/images/coding-post-1.png)
 

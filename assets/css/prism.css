@@ -229,3 +229,7 @@ div.code-toolbar > .toolbar span:focus {
 	text-decoration: none;
 }
 
+img{
+  width: 100%;
+	height:auto;
+}
