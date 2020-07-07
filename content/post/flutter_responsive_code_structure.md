@@ -1,11 +1,19 @@
+---
+title: The best all-in-one responsive and scalable code structure for Flutter
+date: 2020-06-07
+hero: https://cdn-images-1.medium.com/max/3840/1*RmvcYMvi4YtXlJz-iXntTA.jpeg
+excerpt: "Read more about flutter here.."
+timeToRead: 15
+authors:
+  - Alister
 
-# The best all-in-one responsive and scalable code structure for Flutter
+---
 
-Responsive Design
+## Responsive Design
 
 If you are looking for an all-in-one scalable and responsive code structure for your Flutter application, you have come to the right place. This folder structure contains all the essential files required for your Flutter application, which manages the responsiveness, themes, routes, providers and more!
 
-So let’s get started!
+## So let’s get started!
 
 Suppose you are building an application compatible for the web, tablet and mobile platforms, you would ideally want to ensure that the user viewing your application has personalized views depending on the platform he/she wishes to use your application with.
 
@@ -211,5 +219,4 @@ This being my first medium article, I sincerely do hope that this walkthrough ha
 Please do ask you queries below in the comments section, and I will get back to you as soon as possible.
 
 The source code, as well as the folder structure is free to download and integrate in your Flutter projects. Please do check it out below, and give it a star if it helps you out, much appreciated!
-[**AlisterLuiz/Flutter-Responsive-Folder-Structure**
-*Contribute to AlisterLuiz/Flutter-Responsive-Folder-Structure development by creating an account on GitHub.*github.com](https://github.com/AlisterLuiz/Flutter-Responsive-Folder-Structure.git)
+[*AlisterLuiz/Flutter-Responsive-Folder-Structure*](https://github.com/AlisterLuiz/Flutter-Responsive-Folder-Structure)
