@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: master
+  squash_merges: true
+  commit_messages:
+    create: (CMS) Create {{collection}} “{{slug}}” by {{author-login}}
+    update: (CMS) Update {{collection}} “{{slug}}” by {{author-login}}
+    delete: (CMS) Delete {{collection}} “{{slug}}” by {{author-login}}
+    uploadMedia: (CMS) Upload “{{path}}” by {{author-login}}
+    deleteMedia: (CMS) Delete “{{path}}” by {{author-login}}
+    openAuthoring: '(CMS) {{message}} by {{author-login}}'
+publish_mode: editorial_workflow
+media_folder: static/images/uploads
+public_folder: /images/uploads
+site_url: https://blogs.hwtech.club/
+display_url: https://blogs.hwtech.club/
+logo_url: https://hwtech.club/images/output-onlinepngtools.png
+show_preview_links: true
+slug:
+  encoding: "unicode"
+  clean_accents: true
+  sanitize_replacement: "-"
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/post"
+    preview_path: "post/{{slug}}"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Thumbnail Image", name: "hero", widget: "image" }
+      - { label: "Summary", name: "excerpt", widget: "string" }
+      - { label: "Authors", name: "authors", widget: "list"}
+      - { label: "Time to Read", name: "timeToRead", widget: "number", valueType: "int", step: 1 }
+      - { label: "Body", name: "body", widget: "markdown" }
