@@ -24,9 +24,9 @@ collections:
   - name: "post"
     label: "Post"
     folder: "content/post"
-    preview_path: "post/{{slug}}"
+    preview_path: "post/{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
