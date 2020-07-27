@@ -16,14 +16,21 @@ hugo serve
 ```
 
 ## How to add a blog
+### Option A: Use CMS to add posts (works on Mobile Devices too)
+1. Navigate to https://blogs.hwtech.club/admin
 
+2. SignUp/SignIn with GitHub or email.
+
+3. Add new post in browser
+
+### Option B: Edit/Add markdown files directly to repo 
 1. Navigate to content/post
 
 2. Add a new file <filename>.md
-
+  
 3. Use the previous blog as your template
 
-## How to add an author
+## How to add an author (not currently availiable via CMS)
 
 1. Navigate to content/authors
 
